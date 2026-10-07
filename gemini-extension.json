@@ -1,0 +1,11 @@
+{
+  "name": "pollunit",
+  "version": "1.0.0",
+  "description": "Create, update and analyze PollUnit polls, scheduling polls, surveys and contests from Gemini.",
+  "mcpServers": {
+    "pollunit": {
+      "httpUrl": "https://pollunit.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.pollunit/mcp",
+  "title": "PollUnit",
+  "description": "Create, update and analyze PollUnit polls, scheduling polls, surveys and contests.",
+  "version": "1.0.0",
+  "websiteUrl": "https://pollunit.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://pollunit.com/mcp"
+    }
+  ]
+}
